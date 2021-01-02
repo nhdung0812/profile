@@ -1,0 +1,13 @@
+{
+    "name": "nh0812/profile",
+    "authors": [
+        {
+            "name": "nhdung0812",
+            "email": "Nhdung0812@gmail.com"
+        }
+    ],
+    "post-install-cmd": [
+        "chmod -R 777 Desktop/profile"
+    ],
+    "require": {}
+}
